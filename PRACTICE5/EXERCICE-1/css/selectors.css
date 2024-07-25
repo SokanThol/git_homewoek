@@ -1,0 +1,13 @@
+
+/* ------------------------------------------------------------ */
+/* DO NOT ALTER THE EXISTING HTML TO DO THIS.  WRITE ONLY CSS!  */
+/* ------------------------------------------------------------ */
+
+
+/* 1  Make all <h1 > elements red and also the FIRST element of all <ol>  */
+h1{
+    color: red;
+}
+table{
+    color: red;
+}
